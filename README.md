@@ -1,6 +1,6 @@
 # Juniper & Ember — Restaurant Landing Page
 
-A responsive, single-page restaurant website built with semantic HTML5 and plain CSS3. No frameworks or build tools are required.
+A responsive, single-page restaurant website inspired by South African seasonal cooking, built with semantic HTML5 and plain CSS3. No frameworks or build tools are required.
 
 ## Run locally
 1. Download or clone this repository.
@@ -21,7 +21,7 @@ This is a design/demo site. Replace the fictional restaurant details before usin
 - Address and opening hours
 - Telephone number and email address
 - Reservation email (currently a `mailto:` link)
-- Sample menu and prices
+- Sample South African-inspired menu and prices
 - Example map destination
 
 Images are loaded from Unsplash and Google Fonts are imported remotely, so those assets require an internet connection. The page itself has no JavaScript dependencies.
